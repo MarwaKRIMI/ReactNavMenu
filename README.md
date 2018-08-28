@@ -1,2 +1,0 @@
-# ReactNavMenu
-Created with CodeSandbox

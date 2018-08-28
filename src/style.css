@@ -1,0 +1,26 @@
+.services,
+.contact {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: black;
+}
+
+.home {
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  color: blue;
+}
+ul {
+  list-style-type: none;
+}
+.entrepreneurs,
+.students,
+.hobbyists {
+  text-decoration: none;
+  color: black;
+  margin-left: 20px;
+}
